@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+I am writing a bit about myself.
+
+The end.
